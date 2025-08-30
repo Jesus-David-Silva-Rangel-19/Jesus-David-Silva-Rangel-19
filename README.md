@@ -1,6 +1,7 @@
 # ¡Hola! 👋
 
 ## 👨‍💻 Sobre mí
+
 - 🇨🇴 De Colombia  
 - 🎓 Estudiante de Ingeniería de Sistemas  
 - 📊 Analista de Datos  
@@ -11,6 +12,7 @@
 ---
 
 ## 🌱 Actualmente aprendiendo
+
 - Python para Ciencia de Datos y Machine Learning  
 - SQL para Análisis y Gestión de Bases de Datos  
 - Visualización de Datos con Power BI y Excel  
@@ -20,6 +22,7 @@
 ---
 
 ## 💼 En lo que estoy trabajando
+
 - Administración y optimización de bases de datos relacionales  
 - Análisis de datos para la toma de decisiones  
 - Automatización de procesos administrativos  
@@ -28,18 +31,19 @@
 ---
 
 ## 🛠️ Tecnologías y herramientas
-- **Programación:** Python, SQL  
-- **Data Tools:** Pandas, NumPy, Matplotlib, Power BI, Excel  
-- **Bases de Datos:** MySQL, PostgreSQL  
-- **Otros:** Git, GitHub, Jupyter Notebooks  
+
+- **Programación:** Python, SQL
+- **Libraries:** 'Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-Learn
+- **Data Tools:** Power BI, Tableau, Excel, Sheets
+- **Bases de Datos:** MySQL, SQL Workbench, PostgreSQL, MongoDB
+- **Big Data:** Apache Spark / PySpark, Apache Hadoop
+- **Otros:** Git, GitHub, Jupyter Notebooks, Visual Studio Code, CLI (Linux y Windows), Office 365
 
 ---
 
 ## 📫 Contáctame
-- ✉️ Correo: [tu-email-aquí]  
-- 💼 LinkedIn: [tu-linkedin-aquí]  
-- 🐦 Twitter/X: [tu-usuario-aquí]  
-
----
+- ✉️ Correo: [jdsr.work@outlook.com](mailto:jdsr.cuentapersona@gmail.com)
+- 💼 LinkedIn: [JESÚS DAVID SILVA RANGEL](https://www.linkedin.com/in/jes%C3%BAs-david-silva-rangel-77706a260/)]
+- 🐦 Twitter/X: [DavidSilvaR19](https://x.com/DavidSilvaR19)]
 
 ✨ *“Transformando datos en conocimiento y el conocimiento en decisiones.”*
