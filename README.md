@@ -1,46 +1,45 @@
-# Hi there 👋 | ¡Hola! 🙌
+# ¡Hola! 👋
 
-## 👨‍💻 About Me | Sobre mí
-- 🇨🇴 From Colombia | De Colombia  
-- 🎓 Systems Engineering Student | Estudiante de Ingeniería de Sistemas  
-- 📊 Data Analyst & Administrative Assistant | Analista de Datos y Asistente Administrativo  
-- 🗄️ Database Administrator | Administrador de Bases de Datos  
-- 🚀 Aspiring Data Scientist & Machine Learning Engineer | Aspirante a Científico de Datos e Ingeniero de Machine Learning  
-
----
-
-## 🌱 Currently Learning | Actualmente Aprendiendo
-- Python for Data Science & Machine Learning  
-- SQL for Data Analysis & Database Management  
-- Data Visualization with Power BI & Excel  
-- Statistics & Probability for Data Science  
-- English (towards C2 proficiency)  
+## 👨‍💻 Sobre mí
+- 🇨🇴 De Colombia  
+- 🎓 Estudiante de Ingeniería de Sistemas  
+- 📊 Analista de Datos  
+- 🗂️ Asistente Administrativo  
+- 🗄️ Actualmente trabajando como Administrador de Bases de Datos  
+- 🚀 Aspirante a Científico de Datos e Ingeniero de Machine Learning  
 
 ---
 
-## 🔭 Featured Interests | Intereses Destacados
-- Data Analysis & Visualization 📊  
-- Machine Learning & Artificial Intelligence 🤖  
-- Automation & Process Optimization ⚡  
-- Big Data & Cloud Technologies ☁️  
-- History, Politics & Technology 📚  
+## 🌱 Actualmente aprendiendo
+- Python para Ciencia de Datos y Machine Learning  
+- SQL para Análisis y Gestión de Bases de Datos  
+- Visualización de Datos con Power BI y Excel  
+- Estadística y Probabilidad para Ciencia de Datos  
+- Inglés (meta: nivel C2)  
 
 ---
 
-## 🛠️ Tech Stack | Tecnologías
-- **Programming:** Python, SQL  
+## 💼 En lo que estoy trabajando
+- Administración y optimización de bases de datos relacionales  
+- Análisis de datos para la toma de decisiones  
+- Automatización de procesos administrativos  
+- Creación de reportes y dashboards en Power BI y Excel  
+
+---
+
+## 🛠️ Tecnologías y herramientas
+- **Programación:** Python, SQL  
 - **Data Tools:** Pandas, NumPy, Matplotlib, Power BI, Excel  
-- **Databases:** MySQL, PostgreSQL  
-- **Other:** Git, GitHub, Jupyter Notebooks  
+- **Bases de Datos:** MySQL, PostgreSQL  
+- **Otros:** Git, GitHub, Jupyter Notebooks  
 
 ---
 
-## 📫 How to Reach Me | Contáctame
-- ✉️ Email: [tu-email-aqui]  
-- 💼 LinkedIn: [tu-linkedin-aqui]  
-- 🐦 Twitter/X: [tu-usuario-aqui]  
+## 📫 Contáctame
+- ✉️ Correo: [tu-email-aquí]  
+- 💼 LinkedIn: [tu-linkedin-aquí]  
+- 🐦 Twitter/X: [tu-usuario-aquí]  
 
 ---
 
-✨ *“Transforming data into knowledge and knowledge into decisions.”*  
 ✨ *“Transformando datos en conocimiento y el conocimiento en decisiones.”*
