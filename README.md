@@ -27,10 +27,11 @@
 
 ## 💼 En lo que estoy trabajando
 
-- Administración y optimización de bases de datos relacionales  
+- Creación de reportes y dashboards en Excel y Power BI
+- Análisis de datos estadísticos (demografía y población)
+- Administración y optimización de bases de datos relacionales
 - Análisis de datos para la toma de decisiones  
 - Automatización de procesos administrativos  
-- Creación de reportes y dashboards en Power BI y Excel  
 
 ---
 
