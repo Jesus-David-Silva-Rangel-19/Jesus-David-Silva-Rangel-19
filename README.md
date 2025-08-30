@@ -1,12 +1,11 @@
 # ¡Hola! 👋
 
 ## 👨‍💻 Sobre mí
-
-- 🇨🇴 De Colombia  
-- 🎓 Estudiante de Ingeniería de Sistemas  
+🇨🇴 De Colombia
+- 🗄️ Actualmente trabajando como Administrador de Bases de Datos
 - 📊 Analista de Datos  
 - 🗂️ Asistente Administrativo  
-- 🗄️ Actualmente trabajando como Administrador de Bases de Datos  
+- 🎓 Estudiante de Ingeniería de Sistemas  
 - 🚀 Aspirante a Científico de Datos e Ingeniero de Machine Learning  
 
 ---
