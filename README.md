@@ -43,7 +43,7 @@
 
 ## 📫 Contáctame
 - ✉️ Correo: [jdsr.work@outlook.com](mailto:jdsr.cuentapersona@gmail.com)
-- 💼 LinkedIn: [JESÚS DAVID SILVA RANGEL](https://www.linkedin.com/in/jes%C3%BAs-david-silva-rangel-77706a260/)]
-- 🐦 Twitter/X: [DavidSilvaR19](https://x.com/DavidSilvaR19)]
+- 💼 LinkedIn: [JESÚS DAVID SILVA RANGEL](https://www.linkedin.com/in/jes%C3%BAs-david-silva-rangel-77706a260/)
+- 🐦 Twitter/X: [DavidSilvaR19](https://x.com/DavidSilvaR19)
 
 ✨ *“Transformando datos en conocimiento y el conocimiento en decisiones.”*
