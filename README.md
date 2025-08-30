@@ -12,11 +12,16 @@
 
 ## 🌱 Actualmente aprendiendo
 
-- Python para Ciencia de Datos y Machine Learning  
-- SQL para Análisis y Gestión de Bases de Datos  
-- Visualización de Datos con Power BI y Excel  
-- Estadística y Probabilidad para Ciencia de Datos  
-- Inglés (meta: nivel C2)  
+- 🐍 Python para Ciencia de Datos  
+- 🤖 Machine Learning & Deep Learning  
+- 🗄️ Ingeniería de Datos (ETL, pipelines y gestión de datos a gran escala)  
+- ☁️ Cloud Computing:  
+  - 🔹 Microsoft **Azure**  
+  - 🔹 **Google Cloud Platform (GCP)**  
+  - 🔹 **Amazon Web Services (AWS)**  
+- 📊 Visualización de Datos con Power BI y Excel  
+- 📈 Estadística y Probabilidad para Ciencia de Datos  
+- 🌍 Inglés (meta: nivel C2)  
 
 ---
 
