@@ -33,11 +33,12 @@
 ## 🛠️ Tecnologías y herramientas
 
 - **Programación:** Python, SQL
-- **Libraries:** 'Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-Learn
+- **Librerías:** 'Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-Learn
 - **Data Tools:** Power BI, Tableau, Excel, Sheets
 - **Bases de Datos:** MySQL, SQL Workbench, PostgreSQL, MongoDB
 - **Big Data:** Apache Spark / PySpark, Apache Hadoop
-- **Otros:** Git, GitHub, Jupyter Notebooks, Visual Studio Code, CLI (Linux y Windows), Office 365
+- **Sistemas Operativos:** Linux / Windows (CLI Terminal)
+- **Herramientas:** Git, GitHub, Jupyter Notebooks, Visual Studio Code, Office 365
 
 ---
 
