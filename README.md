@@ -34,11 +34,12 @@
 
 - **Programación:** Python, SQL
 - **Librerías:** 'Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-Learn
-- **Data Tools:** Power BI, Tableau, Excel, Sheets
+- **Data Tools:** Power BI / Tableau, Excel / Sheets
 - **Bases de Datos:** MySQL, SQL Workbench, PostgreSQL, MongoDB
 - **Big Data:** Apache Spark / PySpark, Apache Hadoop
 - **Sistemas Operativos:** Linux / Windows (CLI Terminal)
-- **Herramientas:** Git, GitHub, Jupyter Notebooks, Visual Studio Code, Office 365
+- **Control de Versiones:** Git / GitHub
+- **Herramientas:** Jupyter Notebooks, Visual Studio Code, Office 365
 
 ---
 
