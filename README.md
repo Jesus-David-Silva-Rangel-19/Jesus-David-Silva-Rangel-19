@@ -10,6 +10,16 @@
 
 ---
 
+## 💼 En lo que estoy trabajando
+
+- Creación de reportes y dashboards en Excel y Power BI
+- Análisis de datos estadísticos (demografía y población)
+- Administración y optimización de bases de datos relacionales
+- Análisis de datos para la toma de decisiones  
+- Automatización de procesos administrativos
+
+---
+
 ## 🌱 Actualmente aprendiendo
 
 - 🐍 Python para Ciencia de Datos  
@@ -18,16 +28,6 @@
 - ☁️ Cloud Computing:  (Microsoft Azure / Google Cloud Platform (GCP) / Amazon Web Services (AWS))
 - 📈 Estadística y Probabilidad para Ciencia de Datos  
 - 🌍 Inglés (meta: nivel C2)  
-
----
-
-## 💼 En lo que estoy trabajando
-
-- Creación de reportes y dashboards en Excel y Power BI
-- Análisis de datos estadísticos (demografía y población)
-- Administración y optimización de bases de datos relacionales
-- Análisis de datos para la toma de decisiones  
-- Automatización de procesos administrativos  
 
 ---
 
