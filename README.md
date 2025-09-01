@@ -34,18 +34,18 @@
 ## 🛠️ Tecnologías y herramientas
 
 - **Programación:** Python, SQL
-- **Librerías:** 'Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-Learn
-- **Data Tools:** Power BI / Tableau, Excel / Sheets
+- **Librerías:** Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-Learn
+- **Data Tools:** Power BI, Tableau, Excel, Sheets
 - **Bases de Datos:** MySQL, SQL Workbench, PostgreSQL, MongoDB
-- **Big Data:** Apache Spark / PySpark, Apache Hadoop
-- **Sistemas Operativos:** Linux / Windows (CLI Terminal)
-- **Control de Versiones:** Git / GitHub
+- **Big Data:** Apache Spark, PySpark, Apache Hadoop
+- **Sistemas Operativos:** Linux (CLI Terminal), Windows (CLI Terminal)
+- **Control de Versiones:** Git, GitHub
 - **Herramientas:** Jupyter Notebooks, Visual Studio Code, Office 365
 
 ---
 
 ## 📫 Contáctame
-- ✉️ Correo: [jdsr.work@outlook.com](mailto:jdsr.cuentapersona@gmail.com)
+- ✉️ Correo: [jdsr@bussines.com](mailto:jdsr.cuentapersona@gmail.com)
 - 💼 LinkedIn: [JESÚS DAVID SILVA RANGEL](https://www.linkedin.com/in/jes%C3%BAs-david-silva-rangel-77706a260/)
 - 🐦 Twitter/X: [DavidSilvaR19](https://x.com/DavidSilvaR19)
 
