@@ -47,10 +47,9 @@
 ---
 
 ## 📫 Contáctame
-- ✉️ Correo: [jdsr@work.com](mailto:jdsr.cuentaprofesional@gmail.com)
-- 📞 Teléfono: <a href="tel:+573229608830">(+57) 322 960 8830</a>
-- 💭 WhatsApp: [(+57) 322 960 8830](https://wa.link/tje6u7)
-- 💼 LinkedIn: [JESÚS DAVID SILVA RANGEL](https://www.linkedin.com/in/jes%C3%BAs-david-silva-rangel-77706a260/)
-- 🐦 Twitter/X: [DavidSilvaR19](https://x.com/DavidSilvaR19)
+- ✉️ Correo: [jdsr.cuentaprofesional@gmail.com](mailto:jdsr.cuentaprofesional@gmail.com)
+- 📞 Teléfono/WhatsApp: [(+57) 322 960 8830](https://wa.link/tje6u7)
+- 💼 LinkedIn: [Jesús David Silva Rangel](https://www.linkedin.com/in/jes%C3%BAs-david-silva-rangel-77706a260/)
+- 🐦 Twitter/X: [@DavidSilvaR19](https://x.com/DavidSilvaR19)
 
 ✨ *“Transformando datos en conocimiento y el conocimiento en decisiones.”*
