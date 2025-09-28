@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/d05ee9b0-86ed-4ef2-a7a7-2eabfd01dac8" />
+
 # ¡Hola! 👋
 
 ## 👨‍💻 Sobre mí
