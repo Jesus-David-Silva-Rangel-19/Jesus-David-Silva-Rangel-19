@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Banner GitHub" src="https://github.com/user-attachments/assets/fa234792-9269-4b8c-b973-229bfc1e7228" />
+<img width="1584" height="396" alt="Banner GitHub (1)" src="https://github.com/user-attachments/assets/35520617-8ce6-4180-a5a0-1327fd052cff" />
 
 # ¡Hola! 👋
 
