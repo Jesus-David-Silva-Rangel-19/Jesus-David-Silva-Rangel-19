@@ -36,7 +36,7 @@
 ## 🛠️ Tecnologías y herramientas
 
 - **Programación:** Python, SQL
-- **Librerías:** Pandas, Numpy, Matplotlib, Seaborn, Scipy, Scikit-Learn
+- **Librerías:** Pandas, Numpy, Matplotlib, Seaborn, Scipy, StatsModels, Scikit-Learn
 - **Data Tools:** Power BI, Tableau, Excel, Sheets
 - **Bases de Datos:** MySQL, SQL Workbench, PostgreSQL, MongoDB
 - **Big Data:** Apache Spark, PySpark, Apache Hadoop
