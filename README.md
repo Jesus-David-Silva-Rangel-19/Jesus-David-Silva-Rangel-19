@@ -69,17 +69,6 @@
 
 ---
 
-## 🧠 Proyectos
-
-> Explora mis repositorios para encontrar proyectos sobre:  
-> - Limpieza y transformación de datos  
-> - Análisis exploratorio de datos (EDA)  
-> - Modelos de machine learning  
-> - Dashboards en Power BI  
-> - Automatización con Python  
-
----
-
 ## ☕ Apoya mi trabajo
 
 ☕ Detrás de cada análisis hay una buena dosis de cafeína. 
