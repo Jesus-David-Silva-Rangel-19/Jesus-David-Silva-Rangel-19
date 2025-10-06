@@ -1,7 +1,7 @@
 <img width="1584" height="396" alt="Banner GitHub (1)" src="https://github.com/user-attachments/assets/35520617-8ce6-4180-a5a0-1327fd052cff" />
 
-[![Star](https://img.shields.io/github/stars/tu_usuario/tu_repositorio?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
-[![Fork](https://img.shields.io/github/forks/tu_usuario/tu_repositorio?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
+[![Star](https://img.shields.io/github/stars/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
+[![Fork](https://img.shields.io/github/forks/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
 [![Issues](https://img.shields.io/github/issues/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis)](https://github.com/Jesus-David-Silva-Rangel-19)
 [![MIT License](https://img.shields.io/github/license/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis)](LICENSE)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://buymeacoffee.com/jesus.david.rangel)
