@@ -84,7 +84,7 @@
 
 📊 Every data insight starts with a cup of coffee.  
 If you enjoy my projects, you can support me here:  
-👉 [**Buy Me a Coffee**](https://www.buymeacoffee.com/tuusuario)
+👉 [**Buy Me a Coffee**](buymeacoffee.com/jesus.david.rangel)
 
 ---
 
