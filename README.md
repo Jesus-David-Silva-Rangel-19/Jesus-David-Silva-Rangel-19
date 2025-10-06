@@ -16,7 +16,6 @@
 - 🎓 Estudiante de ingeniería de sistemas  
 - 🚀 Aspirante a científico de datos e ingeniero de machine learning  
 
----
 
 ## 💼 En lo que estoy trabajando
 
@@ -26,7 +25,6 @@
 - Análisis de datos para la toma de decisiones  
 - Automatización de procesos administrativos  
 
----
 
 ## 🌱 Actualmente aprendiendo
 
@@ -37,7 +35,6 @@
 - 📈 Estadística y probabilidad para ciencia de datos  
 - 🌍 Inglés (meta: nivel C2)  
 
----
 
 ## 💻 Habilidades técnicas
 
@@ -52,7 +49,6 @@
 - Suites ofimáticas: Microsoft Office 365, Google Workspace  
 - Metodologías: CRISP-DM, ASUM-DM, SEMMA  
 
----
 
 ## 🛠️ Responsabilidades
 
@@ -67,7 +63,6 @@
 - Uso de Excel y Google Sheets para análisis exploratorio, paneles dinámicos y reportes rápidos  
 - Control de versiones con Git y GitHub  
 
----
 
 ## ☕ Apoya mi trabajo
 
@@ -75,7 +70,6 @@
 Si valoras mi trabajo, puedes invitarme un café:  
 👉 [Buy Me a Coffee](https://buymeacoffee.com/jesus.david.rangel)
 
----
 
 ## 📫 Contáctame
 
@@ -84,6 +78,5 @@ Si valoras mi trabajo, puedes invitarme un café:
 - 💼 LinkedIn: [Jesús David Silva Rangel](https://www.linkedin.com/in/jes%C3%BAs-david-silva-rangel-77706a260/)  
 - 🐦 X/Twitter: [@DavidSilvaR19](https://x.com/DavidSilvaR19)  
 
----
 
 ✨ *"Transformando datos en conocimiento, y el conocimiento en decisiones."*
