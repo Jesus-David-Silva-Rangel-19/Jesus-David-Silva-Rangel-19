@@ -4,97 +4,97 @@
 [![Fork](https://img.shields.io/github/forks/tu_usuario/tu_repositorio?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
 [![Issues](https://img.shields.io/github/issues/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis)](https://github.com/Jesus-David-Silva-Rangel-19)
 [![MIT License](https://img.shields.io/github/license/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis)](LICENSE)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](buymeacoffee.com/jesus.david.rangel)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://buymeacoffee.com/jesus.david.rangel)
 
-# 👋 Hello there!
+# 👋 ¡Hola!
 
-## 👨‍💻 About Me
-🇨🇴 From Colombia  
-- 🗄️ Currently working as a **Database Administrator**  
-- 📊 **Data Analyst**  
-- 🗂️ **Administrative Assistant**  
-- 🎓 **Systems Engineering Student**  
-- 🚀 Aspiring **Data Scientist** and **Machine Learning Engineer**
-
----
-
-## 💼 What I’m Working On
-
-- Creating reports and dashboards in **Excel** and **Power BI**  
-- Performing statistical data analysis (demographics and population)  
-- Managing and optimizing **relational databases**  
-- Supporting data-driven **decision-making**  
-- Automating **administrative processes**
+## 👨‍💻 Sobre mí
+🇨🇴 De Colombia  
+- 🗄️ Actualmente trabajando como administrador de bases de datos  
+- 📊 Analista de datos  
+- 🗂️ Asistente administrativo  
+- 🎓 Estudiante de ingeniería de sistemas  
+- 🚀 Aspirante a científico de datos e ingeniero de machine learning  
 
 ---
 
-## 🌱 Currently Learning
+## 💼 En lo que estoy trabajando
 
-- 🐍 **Python for Data Science**  
-- 🤖 **Machine Learning & Deep Learning**  
-- 🗄️ **Data Engineering** (ETL, pipelines, and large-scale data management)  
-- ☁️ **Cloud Computing:** Microsoft Azure / Google Cloud Platform (GCP) / Amazon Web Services (AWS)  
-- 📈 **Statistics and Probability for Data Science**  
-- 🌍 **English** (goal: C2 level)
-
----
-
-## 💻 Technical Skills
-
-- **Programming:** Python, SQL, PL/SQL  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, SciPy.Stats, StatsModels, Scikit-Learn  
-- **Development Tools:** Jupyter Notebooks, Visual Studio Code, Git, GitHub, Linux CLI, Windows CLI  
-- **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Big Data:** Spark, PySpark, Hadoop  
-- **Databases:** SQL Workbench, MySQL, PostgreSQL, Oracle Apex, MongoDB  
-- **Productivity Tools:** Excel, Google Sheets  
-- **Collaboration Tools:** Jira, Slack, Asana, Trello, Notion, Todoist, Google Calendar  
-- **Office Suites:** Microsoft Office 365, Google Workspace  
-- **Methodologies:** CRISP-DM, ASUM-DM, SEMMA  
+- Creación de reportes y paneles en Excel y Power BI  
+- Análisis de datos estadísticos (demografía y población)  
+- Administración y optimización de bases de datos relacionales  
+- Análisis de datos para la toma de decisiones  
+- Automatización de procesos administrativos  
 
 ---
 
-## 🛠️ Responsibilities
+## 🌱 Actualmente aprendiendo
 
-- Data cleaning, transformation, and analysis using **Python**  
-- Database design, querying, and optimization with **SQL**  
-- Building **interactive reports and dashboards** in Power BI and Excel  
-- Applying **statistical and machine learning models** for prediction and classification projects  
-- Creating clear and effective **data visualizations** using Matplotlib and Seaborn  
-- Automating **ETL processes** for efficient data integration and management  
-- Documenting processes, analyses, and findings in **Jupyter Notebooks** and executive reports  
-- Collaborating in **multidisciplinary teams** using agile methodologies (Scrum, Kanban)  
-- Using **Excel and Google Sheets** for exploratory analysis, dynamic dashboards, and quick reporting  
-- Managing **version control** with Git and GitHub  
+- 🐍 Python para ciencia de datos  
+- 🤖 Machine Learning y Deep Learning  
+- 🗄️ Ingeniería de datos (ETL, pipelines y gestión de datos a gran escala)  
+- ☁️ Computación en la nube: Microsoft Azure / Google Cloud Platform (GCP) / Amazon Web Services (AWS)  
+- 📈 Estadística y probabilidad para ciencia de datos  
+- 🌍 Inglés (meta: nivel C2)  
 
 ---
 
-## 🧠 Projects
+## 💻 Habilidades técnicas
 
-> Explore my repositories to find projects on:
-> - Data Cleaning and Wrangling  
-> - Exploratory Data Analysis (EDA)  
-> - Machine Learning Models  
-> - Power BI Dashboards  
-> - Python Automation  
-
----
-
-## ☕ Support My Work
-
-📊 Every data insight starts with a cup of coffee.  
-If you enjoy my projects, you can support me here:  
-👉 [**Buy Me a Coffee**](buymeacoffee.com/jesus.david.rangel)
+- Programación: Python, SQL, PL/SQL  
+- Librerías: Pandas, NumPy, Matplotlib, Seaborn, SciPy, SciPy.Stats, StatsModels, Scikit-Learn  
+- Herramientas de desarrollo: Jupyter Notebooks, Visual Studio Code, Git, GitHub, CLI Linux, CLI Windows  
+- Visualización de datos: Power BI, Tableau, Matplotlib, Seaborn  
+- Big Data: Spark, PySpark, Hadoop  
+- Bases de datos: SQL Workbench, MySQL, PostgreSQL, Oracle Apex, MongoDB  
+- Herramientas de productividad: Excel, Google Sheets  
+- Herramientas de colaboración: Jira, Slack, Asana, Trello, Notion, Todoist, Google Calendar  
+- Suites ofimáticas: Microsoft Office 365, Google Workspace  
+- Metodologías: CRISP-DM, ASUM-DM, SEMMA  
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Responsabilidades
 
-- ✉️ Email: [jdsr.cuentaprofesional@gmail.com](mailto:jdsr.cuentaprofesional@gmail.com)  
+- Limpieza, transformación y análisis de datos con Python  
+- Diseño, consulta y optimización de bases de datos con SQL  
+- Creación de reportes interactivos y paneles en Power BI y Excel  
+- Aplicación de modelos estadísticos y de machine learning para proyectos de predicción y clasificación  
+- Elaboración de visualizaciones claras y efectivas con Matplotlib y Seaborn  
+- Automatización de procesos ETL para una integración y gestión eficiente de grandes volúmenes de datos  
+- Documentación de procesos, análisis y hallazgos en Jupyter Notebooks y reportes ejecutivos  
+- Colaboración en equipos multidisciplinarios bajo metodologías ágiles (Scrum, Kanban)  
+- Uso de Excel y Google Sheets para análisis exploratorio, paneles dinámicos y reportes rápidos  
+- Control de versiones con Git y GitHub  
+
+---
+
+## 🧠 Proyectos
+
+> Explora mis repositorios para encontrar proyectos sobre:  
+> - Limpieza y transformación de datos  
+> - Análisis exploratorio de datos (EDA)  
+> - Modelos de machine learning  
+> - Dashboards en Power BI  
+> - Automatización con Python  
+
+---
+
+## ☕ Apoya mi trabajo
+
+☕ Detrás de cada análisis hay una buena dosis de cafeína. 
+Si valoras mi trabajo, puedes invitarme un café:  
+👉 [Buy Me a Coffee](https://buymeacoffee.com/jesus.david.rangel)
+
+---
+
+## 📫 Contáctame
+
+- ✉️ Correo: [jdsr.cuentaprofesional@gmail.com](mailto:jdsr.cuentaprofesional@gmail.com)  
 - 📞 WhatsApp: [(+57) 322 960 8830](https://wa.link/tje6u7)  
 - 💼 LinkedIn: [Jesús David Silva Rangel](https://www.linkedin.com/in/jes%C3%BAs-david-silva-rangel-77706a260/)  
-- 🐦 X/Twitter: [@DavidSilvaR19](https://x.com/DavidSilvaR19)
+- 🐦 X/Twitter: [@DavidSilvaR19](https://x.com/DavidSilvaR19)  
 
 ---
 
-✨ *"Transforming data into knowledge, and knowledge into decisions."*
+✨ *"Transformando datos en conocimiento, y el conocimiento en decisiones."*
