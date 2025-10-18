@@ -23,7 +23,9 @@
 - Análisis de datos estadísticos (demografía y población)  
 - Administración y optimización de bases de datos relacionales  
 - Análisis de datos para la toma de decisiones  
-- Automatización de procesos administrativos  
+- Automatización de procesos administrativos
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jesus-David-Silva-Rangel-19)](https://git.io/streak-stats)
 
 
 ## 🌱 Actualmente aprendiendo
