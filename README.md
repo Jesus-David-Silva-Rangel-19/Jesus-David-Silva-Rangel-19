@@ -8,10 +8,9 @@
 
 # 👋 ¡Hola! Soy **Jesús David Silva Rangel**
 
-### 🇨🇴 Analista de Datos | Administrador de Bases de Datos | Aspirante a Científico de Datos  
+### Analista de Datos | Administrador de Bases de Datos | Aspirante a Científico de Datos  
 
-Apasionado por los datos, la estadística y la automatización de procesos.  
-Actualmente estudio **Ingeniería de Sistemas**, mientras desarrollo proyectos de análisis y visualización de datos para optimizar la toma de decisiones empresariales.  
+Apasionado por los datos, la estadística y la automatización de procesos. Actualmente estudio **Ingeniería de Sistemas**, mientras desarrollo proyectos de análisis y visualización de datos para optimizar la toma de decisiones empresariales.  
 
 
 ## 🧠 Sobre mí
@@ -32,17 +31,6 @@ Actualmente estudio **Ingeniería de Sistemas**, mientras desarrollo proyectos d
 - Administración y optimización de **bases de datos relacionales**  
 - Desarrollo de scripts para **automatización de procesos** administrativos  
 - Análisis de datos orientado a la **toma de decisiones estratégicas**
-
-
-## 🌱 En proceso de aprendizaje
-
-- 🐍 **Python para Ciencia de Datos**  
-- 🤖 **Machine Learning y Deep Learning**  
-- 🗄️ **Ingeniería de Datos** (ETL, pipelines, gestión de datos a gran escala)  
-- ☁️ **Cloud Computing**: Azure, GCP y AWS  
-- 📈 **Estadística y Probabilidad aplicada**  
-- 🌍 **Inglés** (meta: nivel C2)  
-
 
 ## 💻 Habilidades técnicas
 
