@@ -1,8 +1,8 @@
 <img src="https://github.com/user-attachments/assets/35520617-8ce6-4180-a5a0-1327fd052cff" alt="Banner GitHub" width="100%"/>
 
-[![Star](https://img.shields.io/github/stars/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
-[![Fork](https://img.shields.io/github/forks/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
-[![Issues](https://img.shields.io/github/issues/Jesus-David-Silva-Rangel-19/Housing-Price-Analysis)](https://github.com/Jesus-David-Silva-Rangel-19)
+[![Star](https://img.shields.io/github/stars/Jesus-David-Rangel/Housing-Price-Analysis?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
+[![Fork](https://img.shields.io/github/forks/Jesus-David-Rangel/Housing-Price-Analysis?style=social)](https://github.com/Jesus-David-Silva-Rangel-19)
+[![Issues](https://img.shields.io/github/issues/Jesus-David-Rangel/Housing-Price-Analysis)](https://github.com/Jesus-David-Silva-Rangel-19)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow.svg)](https://buymeacoffee.com/jesus.david.rangel)
 
 
@@ -21,7 +21,7 @@ Apasionado por los datos, la estadística y la automatización de procesos. Actu
 - 🎓 Estudiante de **Ingeniería de Sistemas**  
 - 🚀 En camino a convertirme en **Data Scientist** y **Machine Learning Engineer**  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jesus-David-Silva-Rangel-19&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=/Jesus-David-Rangel/&theme=default)](https://git.io/streak-stats)
 
 
 ## 💼 Lo que hago actualmente
